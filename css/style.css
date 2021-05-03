@@ -51,7 +51,7 @@ body,html {
 }
 
 #showcase {
-      background: url(../images/background.jpg)no-repeat center center/cover;
+      background: url(/images/background.jpg)no-repeat center center/cover;
       height: 100vh;
 }
 
@@ -86,7 +86,7 @@ body,html {
 /* projects */
 
 #project-works {
-    background: url(../images/bd.jpg.jpg)no-repeat center center/cover;
+    background: url(/images/bd.jpg.jpg)no-repeat center center/cover;
     height: 100vh;
 }
 
