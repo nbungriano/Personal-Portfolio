@@ -73,7 +73,7 @@ body, html {
 }
 
 #showcase {
-    background: url(/background.jpg)no-repeat center center/cover;
+    background: url(background.jpg)no-repeat center center/cover;
     height: 100vh; 
 }
 
@@ -204,15 +204,15 @@ main {
   }
 
   .tribute-img {
-      background-image: url(/a\ tribute\ page.jpg) ;
+      background-image: url(a\ tribute\ page.jpg) ;
   }
 
   .coffee-img {
-      background-image: url(/coffee\ shop.jpg);
+      background-image: url(coffee\ shop.jpg);
   }
 
 .documentation-img {
-    background-image:  url(/documentation\ page.jpg);
+    background-image:  url(documentation\ page.jpg);
 }
 
 
